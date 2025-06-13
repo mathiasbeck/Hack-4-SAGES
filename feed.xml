@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hack-4-SAGE</title>
+    <link href="https://mathiasbeck.github.io/Hack-4-SAGE/feed.xml" rel="self" />
+    <link href="https://mathiasbeck.github.io/Hack-4-SAGE" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Mathias Beck</name>
+    </author>
+    <id>https://mathiasbeck.github.io/Hack-4-SAGE</id>
+
+</feed>

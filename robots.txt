@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mathiasbeck.github.io/Hack-4-SAGE/sitemap.xml

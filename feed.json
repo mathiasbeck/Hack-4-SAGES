@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hack-4-SAGE",
+    "description": "",
+    "home_page_url": "https://mathiasbeck.github.io/Hack-4-SAGE",
+    "feed_url": "https://mathiasbeck.github.io/Hack-4-SAGE/feed.json",
+    "user_comment": "",
+    "icon": "https://mathiasbeck.github.io/Hack-4-SAGE/media/website/Logo-design-for-Hack-4-SAGE-a-cross-cultural-and-trans-national-hackathon-focused-on-sustainabil.jpeg",
+    "author": {
+        "name": "Mathias Beck"
+    },
+    "items": [
+    ]
+}
