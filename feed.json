@@ -10,5 +10,21 @@
         "name": "Mathias Beck"
     },
     "items": [
+        {
+            "id": "https://mathiasbeck.github.io/Hack-4-SAGE/hack-4-sage-selected-for-funding.html",
+            "url": "https://mathiasbeck.github.io/Hack-4-SAGE/hack-4-sage-selected-for-funding.html",
+            "title": "Hack-4-SAGE selected for funding",
+            "summary": "We are excited to share the great information that we received yesterday, Tuesday 01 July 2025. The Hack-4-SAGE project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of&hellip;",
+            "content_html": "\n  <p>\n    We are excited to share the great information that we received yesterday, Tuesday 01 July 2025.\n  </p>\n\n  <p>\n    The Hack-4-SAGE project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of 10 funded projects. We are very grateful to the ENHANCE Alliance for the generous support.\n  </p>\n\n  <p>\n    If you are interested to know about the other projects that were selected for funding, you may consult the ENHANCE Testbed website :&nbsp;<a href=\"https://www.wut.cwm.pw.edu.pl/testbed/\" target=\"_blank\">https://www.wut.cwm.pw.edu.pl/testbed/</a>\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://mathiasbeck.github.io/Hack-4-SAGE/media/posts/11/1_ENHANCE_Logo-1.png",
+            "author": {
+                "name": "Mathias Beck"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2025-07-02T15:15:02+02:00",
+            "date_modified": "2025-07-02T15:23:55+02:00"
+        }
     ]
 }
