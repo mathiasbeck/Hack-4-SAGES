@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Hack-4-SAGE</title>
-    <link href="https://mathiasbeck.github.io/Hack-4-SAGE/feed.xml" rel="self" />
-    <link href="https://mathiasbeck.github.io/Hack-4-SAGE" />
-    <updated>2025-07-02T15:23:55+02:00</updated>
+    <title>Hack-4-SAGES</title>
+    <link href="https://mathiasbeck.github.io/Hack-4-SAGES/feed.xml" rel="self" />
+    <link href="https://mathiasbeck.github.io/Hack-4-SAGES" />
+    <updated>2025-07-24T16:35:56+02:00</updated>
     <author>
         <name>Mathias Beck</name>
     </author>
-    <id>https://mathiasbeck.github.io/Hack-4-SAGE</id>
+    <id>https://mathiasbeck.github.io/Hack-4-SAGES</id>
 
     <entry>
-        <title>Hack-4-SAGE selected for funding</title>
+        <title>Hack-4-SAGES selected for funding</title>
         <author>
             <name>Mathias Beck</name>
         </author>
-        <link href="https://mathiasbeck.github.io/Hack-4-SAGE/hack-4-sage-selected-for-funding.html"/>
-        <id>https://mathiasbeck.github.io/Hack-4-SAGE/hack-4-sage-selected-for-funding.html</id>
-        <media:content url="https://mathiasbeck.github.io/Hack-4-SAGE/media/posts/11/1_ENHANCE_Logo-1.png" medium="image" />
+        <link href="https://mathiasbeck.github.io/Hack-4-SAGES/hack-4-sage-selected-for-funding.html"/>
+        <id>https://mathiasbeck.github.io/Hack-4-SAGES/hack-4-sage-selected-for-funding.html</id>
+        <media:content url="https://mathiasbeck.github.io/Hack-4-SAGES/media/posts/11/1_ENHANCE_Logo-1.png" medium="image" />
             <category term="News"/>
 
         <updated>2025-07-02T15:15:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mathiasbeck.github.io/Hack-4-SAGE/media/posts/11/1_ENHANCE_Logo-1.png" alt="" />
-                    We are excited to share the great information that we received yesterday, Tuesday 01 July 2025. The Hack-4-SAGE project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of&hellip;
+                        <img src="https://mathiasbeck.github.io/Hack-4-SAGES/media/posts/11/1_ENHANCE_Logo-1.png" alt="" />
+                    We are excited to share the great information that we received yesterday, Tuesday 01 July 2025. The Hack-4-SAGES project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mathiasbeck.github.io/Hack-4-SAGE/media/posts/11/1_ENHANCE_Logo-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mathiasbeck.github.io/Hack-4-SAGES/media/posts/11/1_ENHANCE_Logo-1.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     We are excited to share the great information that we received yesterday, Tuesday 01 July 2025.
   </p>
 
   <p>
-    The Hack-4-SAGE project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of 10 funded projects. We are very grateful to the ENHANCE Alliance for the generous support.
+    The Hack-4-SAGES project was selected for funding via the ENHANCE Testbed seed fund. The application was rated with 97.6 / 100 possible points and is ranked #1 out of 10 funded projects. We are very grateful to the ENHANCE Alliance for the generous support.
   </p>
 
   <p>
